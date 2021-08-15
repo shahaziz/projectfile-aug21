@@ -1,2 +1,6 @@
 My first file on demo branch
+<<<<<<< HEAD
 Second Line on Main Branch
+=======
+Second line on demo.txt on demo1 branch
+>>>>>>> demo1
